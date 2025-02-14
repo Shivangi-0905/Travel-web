@@ -3,7 +3,7 @@ import './App.css'
 import About from './Component/About/About'
 import Destination from './Component/Destinations/Destination'
 import CallToAction from './Component/footer/CallToAction'
-import Footer from './Component/footer/footer'
+import Footer from './Component/footer/Footer'
 
 import Memories from './Component/Memories/Memories'
 import Header from './Component/Nav/Header/Header'
